@@ -20,7 +20,7 @@
 
 
 ### Languages and Tools
-![](https://skillicons.dev/icons?i=linux,nginx,nodejs,py,js,ts,java,kotlin,swift,php,c,cpp,cs,go,visualstudio,vscode,vim,eclipse,dotnet,qt,gtk,jquery,bootstrap,threejs,css,sass,html,flask,tensorflow,react,processing,arduino,raspberrypi,bash,selenium,mongodb,sqlite,mysql,postgres,redis,firebase,postman,netlify,docker,git,github,gitlab,stackoverflow,linkedin,twitter&theme=light&perline=25)
+![](https://skillicons.dev/icons?i=py,django,fastapi,tensorflow,pytorch,linux,nginx,nodejs,js,ts,swift,c,cs,vscode,vim,threejs,css,sass,html,flask,react,processing,bash,zsh,selenium,sqlite,mysql,postgres,redis,firebase,postman,docker,git,github,linkedin,twitter&theme=light&perline=25)
 
 
 <!--
