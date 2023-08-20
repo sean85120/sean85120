@@ -3,8 +3,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Sean Chen </h1>
-<img src="https://komarev.com/ghpvc/?username=milochen&color=800080" alt="milochen0418"/><a href="https://stackoverflow.com/users/10756025/milo-chen" target="_blank"><img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=10756025" /></a>
-
+<img src="https://komarev.com/ghpvc/?username=sean85120&color=800080" alt="sean85120"/>
 ### A Software engineer from Taiwan 
 |  |   |
 | :-----|  :----: |
