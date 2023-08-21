@@ -9,10 +9,8 @@
 <br>
 
 - A Software engineer from Taiwan
-- Focus on 
-- Currently learning Web Development by Self
+- Focus on backend services development & AI applications
 - Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br> 
 
