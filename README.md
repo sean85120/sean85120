@@ -42,7 +42,7 @@
 
 - **Cloud Service**:
 
-    ![GCP](https://img.shields.io/badge/GCP%20-%23327FC7.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
     ![AWS](https://img.shields.io/badge/AWS%20-%23327FC7.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
     
 <br>
