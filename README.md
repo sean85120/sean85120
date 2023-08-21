@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Sean Chen </h1>
-<img src="https://komarev.com/ghpvc/?username=sean85120&color=800080" alt="sean85120"/>
+
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
