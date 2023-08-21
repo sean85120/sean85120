@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there👋, I'm Sean Chen </h1>
 <img src="https://komarev.com/ghpvc/?username=sean85120&color=800080" alt="sean85120"/>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -14,9 +14,7 @@
 - Personal website [link]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
-<br><br>
-
-###    
+<br><br> 
 
 
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=sean85120&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=sean85120&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />. 
