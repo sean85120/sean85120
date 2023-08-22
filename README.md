@@ -36,8 +36,8 @@
 - **Backend Development**:
 
 
-   ![Django](https://img.shields.io/badge/django%20-%23327FC7.svg?style=for-the-badge&logo=django&logoColor=white)
-   ![Fastapi](https://img.shields.io/badge/fastapi%20-%23327FC7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+   ![Django](https://img.shields.io/badge/django%20-%24327FC7.svg?style=for-the-badge&logo=django&logoColor=green)
+   ![Fastapi](https://img.shields.io/badge/fastapi%20-%24327FC7.svg?style=for-the-badge&logo=fastapi&logoColor=green)
    ![Flask](https://img.shields.io/badge/flask%20-%23327FC7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <br>
