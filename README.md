@@ -10,7 +10,7 @@
 
 - A Software engineer from Taiwan
 - Focus on backend services development & AI applications
-- Personal website [link]()
+- Personal website [link](https://www.linkedin.com/in/yi-hsum-chen-362401209/)
 
 <br><br> 
 
