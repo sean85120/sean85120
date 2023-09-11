@@ -28,6 +28,7 @@
 - **Languages**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Swift](https://img.shields.io/badge/Swift%20-%232370ED.svg?style=for-the-badge&logo=swift&logoColor=white)
